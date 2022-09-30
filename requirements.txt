@@ -6,7 +6,7 @@ chardet==3.0.4
 coala-utils==0.5.1
 fake-useragent==0.1.11
 idna==2.8
-joblib==0.13.2
+joblib==1.2.0
 lxml==4.4.0
 numpy==1.17.0
 pipenv==2018.11.26
